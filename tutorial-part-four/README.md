@@ -1,4 +1,7 @@
-# Tutorial Part 4 & 5
+# Tutorial Part 4 & 5 & 6
 
-Data in Gatsby & Source Plugins and Rendering Queried Data
+Data in Gatsby <br>
 
+& Source Plugins and Rendering Queried Data <br>
+
+& Transformer Plugins
